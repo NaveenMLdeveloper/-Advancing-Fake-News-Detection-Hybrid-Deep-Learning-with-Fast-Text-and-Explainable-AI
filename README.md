@@ -1,4 +1,6 @@
 # 📰 Advancing Fake News Detection: Hybrid Deep Learning with FastText and Explainable AI
+![image](https://github.com/user-attachments/assets/daa2af11-4bf8-4800-b2f7-305ae0154f9e)
+
 
 ## 🎯 Objective
 This project aims to enhance the detection of fake news using a hybrid deep learning model that combines the power of **FastText** for word embedding and **deep learning architectures**. Additionally, we integrate **Explainable AI (XAI)** techniques to provide transparency into the decision-making process.
